@@ -1,0 +1,25 @@
+{
+  "name": "longpoll",
+  "version": "0.0.0",
+  "description": "Simile implementation of a long poll mechanism",
+  "main": "longpoll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MauriceButler/longpoll.git"
+  },
+  "keywords": [
+    "longpoll",
+    "long",
+    "poll",
+    "socket",
+    "polling"
+  ],
+  "author": "maurice butler <maurice.butler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/longpoll/issues"
+  }
+}
